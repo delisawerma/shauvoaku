@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eithefeer.gametheorylabs.com/sitemap.xml
